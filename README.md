@@ -1,3 +1,3 @@
 Ant simulation
 
-![alt text](one.png)
+![alt text](two.png)
